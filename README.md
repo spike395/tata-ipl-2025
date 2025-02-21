@@ -1,1 +1,1 @@
-# Boder Gavaskar Trophy (2024-25) Live Streaming Links.
+# ICC Champions Trophy (2025) Live Streaming Links.
