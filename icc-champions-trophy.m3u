@@ -1,9 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SEVEN+" tvg-logo="https://i.postimg.cc/rs42bLpv/Seven.png" group-title="BGT 2024",SEVEN+
+#EXTINF:-1 tvg-name="SEVEN+" tvg-logo="https://i.postimg.cc/bNSnxxP0/seven.png" group-title="ICC Champions Trophy (2025)",SEVEN+
 http://f2l.reaper-club.com/AgADZB77919
 
-#EXTINF:-1 tvg-name="Star Sports Hindi" tvg-logo="https://i.postimg.cc/tTxXqVJ9/Champions-Trophy-2025-Banner.jpg" group-title="BGT 2024",Star Sports Hindi
-https://prod-ent-live-gm.jiocinema.com/out/v1/1bcf841b61684be0b93bb7b230c2690c/master.m3u8
+#EXTINF:-1 tvg-name="English 50FPS + Ad-Free" tvg-logo="https://i.postimg.cc/zXdJGM60/eng50fpsadfree.png" group-title="ICC Champions Trophy (2025)",English 50FPS + Ad-Free
+https://dj-tm-srvr2.vercel.app/icctv/ICC_CT25@DJ-TM.mpd?id=ch-hd-02|User-Agent=@DJ-TM&drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/jdVbfCgK/TNT-Sports-1.png" group-title="BGT 2024",TNT Sports 1
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#EXTINF:-1 tvg-name="English Prime 50FPS" tvg-logo="https://i.postimg.cc/fRpDxdwd/eng50fpsprime.png" group-title="ICC Champions Trophy (2025)",English Prime 50FPS
+https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqhtvqjquq/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+
+#EXTINF:-1 tvg-name="Hindi Prime 50FPS" tvg-logo="https://i.postimg.cc/cLrdghNZ/hin50fpsprime.png" group-title="ICC Champions Trophy (2025)",Hindi Prime 50FPS
+https://aba5sdmaaaaaaaamidug47tdi5buy.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l0phze3ehz/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd?|drmScheme=clearkey&drmLicense=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
+
+#EXTINF:-1 tvg-name="Sports18 1 HD" tvg-logo="https://i.postimg.cc/xTjfYYxX/hins18-1hd.png" group-title="ICC Champions Trophy (2025)", Sports18 1 HD
+https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740211363~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=ca2b3e9cd692bed6ebe7ca41d8cc062ad3b7d0bf0f295f7555707f8f8d7773be/index.m3u8
+
+#EXTINF:-1 tvg-name="SS 1 Hindi HD" tvg-logo="https://i.postimg.cc/3wG79wRc/hinss1hd.png" group-title="ICC Champions Trophy (2025)", SS 1 HD
+http://103.115.126.26:8000/play/a083/index.m3u8
