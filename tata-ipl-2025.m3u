@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SEVEN+" tvg-logo="https://i.postimg.cc/bNSnxxP0/seven.png" group-title="ICC Champions Trophy (2025)",SEVEN+
-http://f2l.reaper-club.com/AgADZB77919
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://i.postimg.cc/qR82TfWc/starsports-hindi.png" group-title="IPL 2025 [BANGLAR THEK!]",Star Sports 1 Hindi HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1_HINDI-HD@DJ-TM.mpd?data=0y7KCy8MSQ0IKLTMtdQvyk9P8QwpKzX2DQnMzSnwdAs3dcv2qkgtC_EJcw4LdDGzMI3SNgvMMDHIqyrx8ysM8_DxSnHMck8sK660DHLx9gvM8ksKyE4qcAQA|Cookie=hdntl=exp=1744119419~acl=*sshindi*~id=5aaec0f06b83abc943fc8d40e0e777e6~data=hdntl~hmac=482c149882bb77d155c115224bf4d848940078ddba16f18ebcbb8bce1bd4d411&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=_ncY-7P7S6eMB8wPV4dE5g:Yk4ksYQ7RZ-rCpSWCUFvDQ
 
-#EXTINF:-1 tvg-name="English 50FPS + Ad-Free" tvg-logo="https://i.postimg.cc/zXdJGM60/eng50fpsadfree.png" group-title="ICC Champions Trophy (2025)",English 50FPS + Ad-Free
-"https://dj-tm-srvr2.vercel.app/icctv/ICC_CT25@DJ-TM.mpd?id=ch-hd-02|User-Agent=@DJ-TM&drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+#EXTINF:-1 tvg-name="Star Sports 1 English HD" tvg-logo="https://i.postimg.cc/3xcXjFgG/starsports-english.png" group-title="IPL 2025 [BANGLAR THEK!]",Star Sports 1 English HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD@DJ-TM.mpd?data=8wvLCq70qDSrLHJNrvTS9kzxDvE19At3j8oNKo_Kcik3dDcrSU408fdODYqMdC2MTE0ry0kts0iJdC6M9MzMcYvKzcmNyM7JScuKcExPy3FzLkw3yDUzcHc2NIgAAA|Cookie=hdntl=exp=1744119453~acl=*sshd1livetv*~id=7ead532f18e60aae76a08124558491cf~data=hdntl~hmac=63357f078b07a6742879a7a41f8426797fa73e409fb3855716365089b63016ab&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=_ncY-7P7S6eMB8wPV4dE5g:Yk4ksYQ7RZ-rCpSWCUFvDQ
 
-#EXTINF:-1 tvg-name="English Prime 50FPS" tvg-logo="https://i.postimg.cc/fRpDxdwd/eng50fpsprime.png" group-title="ICC Champions Trophy (2025)",English Prime 50FPS
-https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqhtvqjquq/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+#EXTINF:-1 tvg-name="Willow Cricket English Ad-free" tvg-logo="https://i.postimg.cc/d0Z85ZBx/willow-english.png" group-title="IPL 2025 [BANGLAR THEK!]",Willow Cricket English Ad-free
+https://dj-tm-srvr1.vercel.app/title/WILLOW-LIVE(AMAZON)@DJ-TM.mpd?data=BcHdGkIwAADQB-oifUguuhCJtja2L-Jy_kLGlpQ9fecca2TL_Ua-Kq8vm3PKoY1r7HPZ_UqQxeR1mq8YLH0KRTi2q3IpxGgBBUlWWnoyvgka6RfOZIJ7n-QTE2wXOGC0_Mh8Wvn3XFmD5mRapfRZr_LN4WBw4N6xfIBpEdJVPiyewnpHTuva6Qm1DPKk2epzuN3jLMCDop5CnTIGGH1Wk6IYkS5hJG2m7A8|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/wllo_amzn/ck/wllo.key?data=s_Ur8XOONI4KN68oyMk1cQwrzg0IK01xNPRwNEzyKM_NCY0sSA9ztEiusojKCsxMyU4MinQK9Y5yNqxwDEu3iAAA&Telegram=@links_macha_official&Creator=@DJ-TM
 
-#EXTINF:-1 tvg-name="Hindi Prime 50FPS" tvg-logo="https://i.postimg.cc/cLrdghNZ/hin50fpsprime.png" group-title="ICC Champions Trophy (2025)",Hindi Prime 50FPS
-https://aba5sdmaaaaaaaamidug47tdi5buy.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l0phze3ehz/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd?|drmScheme=clearkey&drmLicense=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
-
-#EXTINF:-1 tvg-name="Sports18 1 HD" tvg-logo="https://i.postimg.cc/xTjfYYxX/hins18-1hd.png" group-title="ICC Champions Trophy (2025)", Sports18 1 HD
-https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740211363~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=ca2b3e9cd692bed6ebe7ca41d8cc062ad3b7d0bf0f295f7555707f8f8d7773be/index.m3u8
-
-#EXTINF:-1 tvg-name="SS 1 Hindi HD" tvg-logo="https://i.postimg.cc/3wG79wRc/hinss1hd.png" group-title="ICC Champions Trophy (2025)", SS 1 HD
-http://103.115.126.26:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-name="Astro Cricket English 50FPS" tvg-logo="https://i.postimg.cc/MTk1NZ3K/astro-english.png" group-title="IPL 2025 [BANGLAR THEK!]",Astro Cricket English 50FPS
+https://dj-tm-srvr4.vercel.app/astro_cric/ASTRO_CRICKET@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=A8Lgry-BWfnwzptdvIZfEA:zYTtE2sMxx-KuM1NT2ouTA
